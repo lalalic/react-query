@@ -1,0 +1,12 @@
+{
+  "name": "react-query",
+  "version": "1.0.0",
+  "description": "cheerio/jQuery like query react elements",
+  "main": "src/index.js",
+  "repository": "https://github.com/lalalic/react-query",
+  "peerDependencies": {
+    "react":"*"
+  },
+  "author": "lalalic <lalalic@139.com>",
+  "license": "MIT"
+}
